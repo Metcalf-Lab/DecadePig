@@ -1,4 +1,4 @@
-# DecadePig
+# A Pilot Study Characterizing Gravesoil Microbial Communities a Decade After Swine Decomposition
 The QIIME2 2020.2 analysis and R figure creation scripts for "A Pilot Study Characterizing Gravesoil Microbial Communities a Decade After Swine Decomposition".
 
 ## Abstract
